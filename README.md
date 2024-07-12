@@ -1,4 +1,7 @@
 ## Hi there 👋
+![cattyping](https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif)  
+
+I probably know what I'm doing
 
 <!--
 **te04072/te04072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
